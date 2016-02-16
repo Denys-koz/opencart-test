@@ -1,0 +1,7 @@
+
+/image/*
+*.log
+*.cache
+/vqmod/vqcache/*
+/vqmod/logs/*
+config.php
