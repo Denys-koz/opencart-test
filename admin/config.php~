@@ -1,0 +1,31 @@
+<?php
+// HTTP
+define('HTTP_SERVER', 'http://localhost/PhpstormProjects/opencart/upload/admin/');
+define('HTTP_CATALOG', 'http://localhost/PhpstormProjects/opencart/upload/');
+
+// HTTPS
+define('HTTPS_SERVER', 'http://localhost/PhpstormProjects/opencart/upload/admin/');
+define('HTTPS_CATALOG', 'http://localhost/PhpstormProjects/opencart/upload/');
+
+// DIR
+define('DIR_APPLICATION', '/home/denys/PhpstormProjects/opencart/upload/admin/');
+define('DIR_SYSTEM', '/home/denys/PhpstormProjects/opencart/upload/system/');
+define('DIR_LANGUAGE', '/home/denys/PhpstormProjects/opencart/upload/admin/language/');
+define('DIR_TEMPLATE', '/home/denys/PhpstormProjects/opencart/upload/admin/view/template/');
+define('DIR_CONFIG', '/home/denys/PhpstormProjects/opencart/upload/system/config/');
+define('DIR_IMAGE', '/home/denys/PhpstormProjects/opencart/upload/image/');
+define('DIR_CACHE', '/home/denys/PhpstormProjects/opencart/upload/system/storage/cache/');
+define('DIR_DOWNLOAD', '/home/denys/PhpstormProjects/opencart/upload/system/storage/download/');
+define('DIR_LOGS', '/home/denys/PhpstormProjects/opencart/upload/system/storage/logs/');
+define('DIR_MODIFICATION', '/home/denys/PhpstormProjects/opencart/upload/system/storage/modification/');
+define('DIR_UPLOAD', '/home/denys/PhpstormProjects/opencart/upload/system/storage/upload/');
+define('DIR_CATALOG', '/home/denys/PhpstormProjects/opencart/upload/catalog/');
+
+// DB
+define('DB_DRIVER', 'mysqli');
+define('DB_HOSTNAME', 'localhost');
+define('DB_USERNAME', 'root');
+define('DB_PASSWORD', 'm975255347l');
+define('DB_DATABASE', 'opencart');
+define('DB_PORT', '3306');
+define('DB_PREFIX', 'oc_');
